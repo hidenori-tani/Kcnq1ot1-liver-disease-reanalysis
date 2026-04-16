@@ -1,19 +1,19 @@
-# Kcnq1ot1/KCNQ1OT1 in Chronic Liver Disease: Integrative Transcriptome Re-Analysis
+# Kcnq1ot1/KCNQ1OT1 in Metabolic Liver Disease: Integrative Transcriptome Re-Analysis
 
 Analysis scripts for the manuscript:
 
-> **Model-dependent regulation of lncRNA Kcnq1ot1/KCNQ1OT1 in chronic liver disease: inverse correlation with mitochondrial energy metabolism revealed by integrative transcriptome re-analysis**
+> **Model-dependent regulation of lncRNA Kcnq1ot1/KCNQ1OT1 in metabolic liver disease models and human NAFLD: inverse correlation with oxidative phosphorylation gene expression**
 >
 > Hidenori Tani
 > Yokohama University of Pharmacy
 
 ## Overview
 
-This repository contains all R scripts used for the integrative re-analysis of public RNA-seq datasets (GSE246221 and GSE207855) to investigate the role of lncRNA Kcnq1ot1/KCNQ1OT1 in chronic liver disease progression.
+This repository contains all R scripts used for the integrative re-analysis of public RNA-seq datasets (GSE246221 and GSE207855) to investigate the role of lncRNA Kcnq1ot1/KCNQ1OT1 in metabolic liver disease progression.
 
 ### Key Findings
 
-- Kcnq1ot1/KCNQ1OT1 regulation is **model-dependent**: suppressed in chemical hepatotoxicity (CCl4), upregulated in metabolic disease (STZ+HFD, human NAFLD)
+- Kcnq1ot1/KCNQ1OT1 regulation is **model-dependent**: unchanged in chemical hepatotoxicity (CCl4), upregulated in metabolic disease (STZ+HFD, human NAFLD)
 - Human KCNQ1OT1 is significantly upregulated in NAFLD (log2FC = +0.88, padj = 6.4 x 10^-8)
 - Strong inverse correlation with **mitochondrial oxidative phosphorylation** genes (KEGG adjusted p = 3.4 x 10^-35)
 - Cross-species conservation of the Kcnq1ot1-mitochondrial axis
@@ -72,7 +72,7 @@ MIT License
 
 If you use these scripts, please cite:
 
-> Tani, H. Model-dependent regulation of lncRNA Kcnq1ot1/KCNQ1OT1 in chronic liver disease: inverse correlation with mitochondrial energy metabolism revealed by integrative transcriptome re-analysis. *Non-coding RNA Research* (submitted).
+> Tani, H. Model-dependent regulation of lncRNA Kcnq1ot1/KCNQ1OT1 in metabolic liver disease models and human NAFLD: inverse correlation with oxidative phosphorylation gene expression. *Hepatology Research* (submitted).
 
 ## Contact
 
